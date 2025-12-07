@@ -21,5 +21,10 @@ public class first{
         int n = sc.nextInt();
         sprt("you have choosen: ");
         iprtln(n);
+        sprt("2 times : " );
+        int m = n*2;
+        iprtln(m);
+        sprt("3 times : ");
+        System.out.println(3*n);
     }
 }
